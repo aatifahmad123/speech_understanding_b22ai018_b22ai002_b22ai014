@@ -1,0 +1,8 @@
+speechbrain
+librosa
+opacus
+soundfile
+pesq
+pystoi
+torch
+torchaudio
